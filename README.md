@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Pratham Aggarwal
-praggarwal@ucsd.edu
+Pratham Aggarwal and Amrutha Potluri
+
